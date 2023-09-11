@@ -1,0 +1,6 @@
+id,name,human_name_confidence,given_name,middle_name,second_middle_name,nick_name,family_name,second_family_name,age_best_estimate_value,age_best_estimate_likelihood,age_under_18_likelihood,age_from_18_to_24_likelihood,age_from_25_to_34_likelihood,age_from_35_to_44_likelihood,age_from_45_to_54_likelihood,age_from_55_to_64_likelihood,age_over_65_likelihood,gender_best_estimate_value,gender_best_etimate_likelihood,gender_male_likelihood,gender_female_likelihood,race_best_estimate_value,race_best_estimate_likelihood,race_white_likelihood,race_black_likelihood,race_asian_pacific_islander_likelihood,race_american_indian_likelihood,race_hispanic_likelihood,race_two_plus_races_likelihood
+1,Taylor Swift,0.9503588,taylor,,,,swift,,from25To34,0.496,0.2,0.231,0.496,0.056,0.005,0.002,0.006,female,0.748,0.251,0.748,white,0.867,0.867,0.085,0.011,0.004,0.019,0.01
+2,Idris Elba,0.9432046,idris,,,,elba,,,,,,,,,,,male,0.95,0.95,0.049,,,,,,,,
+3,Michelle Yeoh,0.5346945,michelle,,,,yeoh,,,,,,,,,,,female,0.988,0.011,0.988,,,,,,,,
+4,Jeff Bezos,0.94155,jeff,,,,bezos,,from55To64,0.576,0.012,0.009,0.017,0.035,0.126,0.576,0.221,male,0.997,0.997,0.002,white,0.952,0.952,0.005,0.03,0.001,0.008,0.001
+5,Bill Gates,0.9512722,bill,,,,gates,,over65,0.728,0.005,0.004,0.008,0.013,0.041,0.198,0.728,male,0.996,0.996,0.003,white,0.794,0.794,0.109,0.054,0.004,0.025,0.01

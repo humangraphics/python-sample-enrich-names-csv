@@ -1,0 +1,4 @@
+# Fill in with your actual values and move to $HOME/.humangraphics
+[api]
+key = XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+base_url = https://api.humangraphics.io/XXXXXXX
